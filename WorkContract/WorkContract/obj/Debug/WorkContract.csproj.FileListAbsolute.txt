@@ -1,0 +1,8 @@
+C:\Users\ronal\OneDrive\Área de Trabalho\Worker\WorkContract\WorkContract\bin\Debug\WorkContract.exe.config
+C:\Users\ronal\OneDrive\Área de Trabalho\Worker\WorkContract\WorkContract\bin\Debug\WorkContract.exe
+C:\Users\ronal\OneDrive\Área de Trabalho\Worker\WorkContract\WorkContract\bin\Debug\WorkContract.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Worker\WorkContract\WorkContract\obj\Debug\WorkContract.csproj.AssemblyReference.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Worker\WorkContract\WorkContract\obj\Debug\WorkContract.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Worker\WorkContract\WorkContract\obj\Debug\WorkContract.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Worker\WorkContract\WorkContract\obj\Debug\WorkContract.exe
+C:\Users\ronal\OneDrive\Área de Trabalho\Worker\WorkContract\WorkContract\obj\Debug\WorkContract.pdb
